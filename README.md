@@ -11,6 +11,9 @@ Offshore geotechnical engineering, Principles and Practice
 Cyclic soil parameters for offshore foundation design_Frontiers-in-Offshore-Geotechnics-III 
 [view](https://www.researchgate.net/publication/300625790_Cyclic_soil_parameters_for_offshore_foundation_design)
 
+PhD thesis_Nonlinear Rotational Behaviour of Shallow Foundations on Cohesive Soil_Algie 2011
+[view](https://researchspace.auckland.ac.nz/handle/2292/9084)
+
 <h1> Miscellaneous </h1>
 Deformation analysis of light-weight breakwater on soft clay
 [view](https://www.icevirtuallibrary.com/doi/abs/10.1680/fiodap.32446.0063)
